@@ -28,4 +28,4 @@ public class PalindromeCheckerApp {
             System.out.println(word + " is not a Palindrome.");
         }
     }
-} 
+}
